@@ -35,4 +35,59 @@ $(document).ready(function(){
     $("#wyy").click(function(){
         window.location.href="https://music.163.com/";
     });
+
+    
+    $("#ysxw").click(function(){
+        window.location.href="https://tv.cctv.com/live/cctv13/";
+    });
+    $("#ysw").click(function(){
+        window.location.href="https://news.cctv.com/china/";
+    });
+    $("#dszb").click(function(){
+        window.location.href="https://tv.cctv.com/live/cctv10/?spm=C28340.PEhBjB4gO3ob.ExidtyEJcS5K.11";
+    });
+    $("#jrtt").click(function(){
+        window.location.href="https://www.toutiao.com/";
+    });
+    $("#jkys").click(function(){
+        window.location.href="https://laoling.cctv.com/jk/index.shtml?spm=C78478.P2K2EYwEoH1M.MZLIXF53zVBk.4";
+    });
+    $("#yinshi").click(function(){
+        window.location.href="https://culture-travel.cctv.com/?spm=C78478.P2K2EYwEoH1M.Ewq1d7wTU5C6.5";
+    });
+    $("#dianhua").click(function(){
+        window.location.href="https://baijiahao.baidu.com/s?id=1724933333683412737&wfr=spider&for=pc";
+    });
+    $("#shuhua").click(function(){
+        window.location.href="https://arts.cctv.com/?spm=C78478.P2K2EYwEoH1M.Ewq1d7wTU5C6.9";
+    });
+    $("#douyin").click(function(){
+        window.location.href="https://www.douyin.com/";
+    });
+    $("#gaode").click(function(){
+        window.location.href="https://gaode.com/";
+    });
+    $("#lvxing").click(function(){
+        window.location.href="https://you.ctrip.com/globalsearch/?keyword=%E5%9B%BD%E5%86%85";
+    });
+    $("#shige").click(function(){
+        window.location.href="https://www.gushiwen.cn/gushi/";
+    });
+    $("#huaniao").click(function(){
+        window.location.href="http://www.huaniaowang.com/";
+    });
+    $("#").click(function(){
+        window.location.href="";
+    });
+    $("#").click(function(){
+        window.location.href="";
+    });
+    $("#").click(function(){
+        window.location.href="";
+    });
+
+
+
+
+    
 })
