@@ -19,7 +19,7 @@
 花鸟网 http://www.huaniaowang.com/  
 
 ## 效果图
-<img src="https://raw.githubusercontent.com/wowqaqtat/SimpleIndex/master/img/%E7%94%B5%E8%84%91%E7%AB%AF.jpg" width="600px">
+<img src="https://raw.githubusercontent.com/wowqaqtat/SimpleIndex/master/img/PC.jpg" width="600px">
 
 ## 如何使用
 将代码下载解压后，双击“长辈导航.html”即可使用。  
